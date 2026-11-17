@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bar.trainer.app-mergeReleaseResources-56:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Boss\\.gradle\\caches\\8.9\\transforms\\232483beae1faab7cf9016fc06e0c04d\\transformed\\work-runtime-2.10.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
